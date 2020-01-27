@@ -16,9 +16,9 @@ i = 4
 d = 4.0
 s = 'HackerRank '
 # Declare second integer, double, and String variables.
-j = 2
-e = 9.0
-9 = 'is a great tool'
+j = int(input())
+e = float(input())
+t = str(input())
 # Read and save an integer, double, and String to your variables.
 
 # Print the sum of both integer variables on a new line.
@@ -29,4 +29,6 @@ f = print(d + e)
 
 # Concatenate and print the String variables on a new line
 u = print(s + t)
-# The 's' variable above should be printed first.
+# The 's' variable above should be printed first.i = 4
+d = 4.0
+s = 'HackerRank '
